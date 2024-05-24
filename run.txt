@@ -1,0 +1,8 @@
+Step1:
+	generate_data(1000);
+
+Step2:
+	train_model;
+
+Step3：
+	run create_gui.m
