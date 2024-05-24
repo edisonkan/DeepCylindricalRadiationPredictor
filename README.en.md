@@ -48,4 +48,7 @@ User-friendly GUI interface:
 Provide an intuitive and easy-to-use user interface to facilitate user operations.
 Research results published in top journals:
 The research results of the project have high academic value and innovation, and meet the publication standards of top journals.
-Through this project, we are committed to providing an efficient and accurate cylindrical array pattern prediction solution to promote the development and application of antenna technology.  We look forward to cooperating with you all to explore the new future of wireless communication technology.
+Through this project, we are committed to providing an efficient and accurate cylindrical array pattern prediction solution to promote the development and application of antenna technology.  We look forward to cooperating with you all to explore the new future of wireless communication technology.。
+![示例图片](images/img1.png)
+![示例图片](images/img2.png)
+![示例图片](images/img3.png)
