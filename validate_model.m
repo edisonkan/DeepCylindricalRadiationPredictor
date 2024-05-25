@@ -7,7 +7,7 @@ fprintf('Mean Squared Error: %.4f\n', mse_error);
 subplot(1, 2, 1);
 imagesc(reshape(predicted_targets(:, 1), [32, 32]));
 subplot(1, 2, 2);
-Telegram:+819034206699
+Telegram:@songchuwen
 
 WeChat:songchuxiaomei
 

@@ -15,7 +15,7 @@ figure;
 % 添加主瓣、副瓣和旁瓣的标注
 polarplot([pi/2, pi/2], [0, max(radiation_pattern)], '--r', 'LineWidth', 1.5); % Major lobe
 title('用极坐标系表示的方向图');
-Telegram:+819034206699
+Telegram:@songchuwen
 
 WeChat:songchuxiaomei
 

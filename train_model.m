@@ -25,7 +25,7 @@ options = trainingOptions('adam', ...
 net = trainNetwork(augmentedPatterns, targets_reshaped, layers, options);
 
 % 保存训练好的模型
-Telegram:+819034206699
+Telegram:@songchuwen
 
 WeChat:songchuxiaomei
 
